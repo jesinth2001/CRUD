@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "name": "aravindh",
+      "id": "65",
+      "phno": "69",
+      "dob": "2023-07-04",
+      "city": "thenkasi"
+    },
+    {
+      "name": "vignesh ",
+      "id": "098",
+      "phno": "56",
+      "dob": "2023-06-25",
+      "city": "salem"
+    },
+    {
+      "name": "surya",
+      "id": "789",
+      "phno": "098",
+      "dob": "2023-07-13",
+      "city": "madurai"
+    },
+    {
+      "name": "frdfg",
+      "id": "87767767",
+      "phno": "0998",
+      "dob": "2023-07-04",
+      "city": "salem"
+    },
+    {
+      "name": "thavasu",
+      "id": "9999",
+      "phno": "98888",
+      "dob": "2023-06-30",
+      "city": "nellai"
+    },
+    {
+      "name": "vinoth",
+      "id": "0012",
+      "phno": "946781002",
+      "dob": "2023-07-13",
+      "city": "nellai"
+    },
+    {
+      "name": "vinoth",
+      "id": "98",
+      "phno": "8883948883",
+      "dob": "2023-07-05",
+      "city": "nellai"
+    },
+    {
+      "name": "gopi",
+      "id": "678955",
+      "phno": "3532543263",
+      "dob": "2023-07-17",
+      "city": "Madurai"
+    },
+    {
+      "name": "aravindh",
+      "id": "543",
+      "phno": "3532543263",
+      "dob": "2023-07-17",
+      "city": "theni"
+    },
+    {
+      "name": "jesi",
+      "id": "55",
+      "phno": "3532543263",
+      "dob": "2023-07-17",
+      "city": "THEni"
+    },
+    {
+      "name": "jesi",
+      "id": "99",
+      "phno": "3532543263",
+      "dob": "2023-07-17",
+      "city": "mdu"
+    }
+  ]
+}
